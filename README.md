@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrivastavatul
 - 👀 I’m interested in learning the new things with computer
-- 🌱 I’m currently persuing BCS in computer science
+- 🌱 I’m currently persuing BSC in computer science
 - 💞️ I’m looking to collaborate on Internship
 - 📫 How to reach me ? You can reach me by mail on the shrivastavatul20@gmail.com
 
